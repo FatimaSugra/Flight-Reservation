@@ -1,37 +1,44 @@
-Flight Reservation System: 
-This is a simple console-based Flight Reservation System developed in Java. The project simulates core functionalities of an airline booking system and demonstrates concepts of Data Structures & Algorithms (DSA) along with Object-Oriented Programming (OOP) principles.
+Flight Reservation System (Java CLI Project)
+A console-based airline reservation system built in Java, demonstrating core concepts of DSA and OOP. Users can register, log in, book flights, cancel reservations, and much more — all through a simple command-line interface.
 
-Features
-User Registration & Login
+---Key Features
+User Registration
+Securely register new users by entering username, password, CNIC, and contact number.
 
-Register new users with name, CNIC, and phone number
+User Login
+Validates credentials and grants access to system options.
 
-Login with username and password
+Search Flights
+View available flights and their details.
 
-Flight Services
+Book a Seat
+Reserve seats in selected flights using your user ID.
 
-Search available flights
+Cancel Reservation
+Remove a booking in case of plan change.
 
-Book flight seats
+Passenger Check-in
+Mark your check-in status before flight departure.
 
-Cancel reservations
+Make Payment
+Basic flow to simulate payment for bookings.
 
-Check-in passengers
+Reservation History
+View previous bookings made through the account.
 
-Make payments
+---Tech Stack:
+Tool/Technology	Purpose
+Java (Core)	Main programming language
+OOP Concepts	Classes, objects, inheritance, etc.
+DSA Concepts	Arrays, lists, and custom logic for search/reservation
+File Handling	(Optional) To store user/session data
+CMD Interface	Runs directly in terminal/console
 
-View reservation history
-
-Technologies Used
-Language: Java
-
-Concepts:
-
-Object-Oriented Programming (OOP)
-
-Data Structures (Arrays, Lists, possibly Queues/Stacks)
-
-File Handling
-
-Command-line User Interface (CLI)
+How to run:
+Compile the Java files:
+Run the program
+Follow the on-screen options in terminal:
+1. Register
+2. Login
+Just choose an option and follow the steps, the system will guide you.
 
