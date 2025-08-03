@@ -1,4 +1,4 @@
-Flight Reservation System
+Flight Reservation System: 
 This is a simple console-based Flight Reservation System developed in Java. The project simulates core functionalities of an airline booking system and demonstrates concepts of Data Structures & Algorithms (DSA) along with Object-Oriented Programming (OOP) principles.
 
 Features
